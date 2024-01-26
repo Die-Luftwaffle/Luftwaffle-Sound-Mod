@@ -1,2 +1,1 @@
-# Luftwaffle-Sound-Mod
-A meme sound mod for Lethal Company.
+This file is necessary but i dont have anything to put here :P
